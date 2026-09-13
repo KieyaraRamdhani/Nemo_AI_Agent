@@ -8,47 +8,6 @@ You are an expert Senior UI/UX Designer, Senior Full Stack Engineer, AI Engineer
 
 Build a polished, portfolio-quality, production-style AI web application called Nemo that looks like a real commercial SaaS product.
 
-A Three.js animated particle system with approximately 1800–2500 glowing particles.
-
-Floating AI nodes connected with subtle glowing lines to resemble a neural network.
-
-Gentle mouse parallax movement so the background reacts slightly to cursor movement.
-
-Slow rotation and floating motion of particles for a calm effect.
-
-A fixed dark gradient overlay to improve readability.
-
-Animated ocean waves at the bottom of the page using layered CSS animations.
-
-Three wave layers moving at different speeds for a realistic parallax effect.
-
-A faint business city skyline silhouette positioned above the waves.
-
-Soft glowing ambient lighting.
-
-Glass reflections on cards.
-
-The background must remain lightweight and performant without causing lag.
-
-The overall atmosphere should feel like:
-
-Ocean technology
-
-Artificial intelligence
-
-Innovation
-
-Premium enterprise software
-
-Avoid clutter and excessive animation.
-
-Required CSS Design Language
-
-Implement the styling using the same visual language throughout the entire application.
-
-Include:
-
-Clean architecture
 
 Portfolio-quality presentation suitable for university assessment and showcasing to employers.
 
